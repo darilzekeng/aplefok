@@ -1,0 +1,4 @@
+1;t-shirt tete de mort;1000;1000
+
+1;imprimante laser;25000;25000
+00
